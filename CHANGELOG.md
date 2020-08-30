@@ -1,4 +1,4 @@
-# Change Log
+# 更新说明
 
 ## [Unreleased](https://github.com/gdg-managua/jekyll-mdl/tree/HEAD)
 
