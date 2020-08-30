@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   这个人很懒，什么都留下了。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: eeee
+twitter_username: 等待添加
 github_username:  trust-web
 google_play: '可快'
 google_plus_com: '109485346959707049693'  # Community link
