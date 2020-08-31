@@ -27,8 +27,8 @@ more_vert:
     name: 首页
     link: index.html
 
-disqus: false
-disqus_shortname: 'gdgmanagua'
+disqus: true
+disqus_shortname: 'trust-web-github-io'
 
 # Build settings
 markdown: kramdown
