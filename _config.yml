@@ -1,12 +1,11 @@
 # Site settings
 title: Trust-Web
 email: kek234600@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  请使用 Chrome 浏览器以获得最佳的浏览体验。
+description: 请使用 Chrome 浏览器以获得最佳的浏览体验。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 等待添加
-github_username:  trust-web
+github_username: trust-web
 google_play: '可快'
 google_plus_com: '109485346959707049693'  # Community link
 google_plus_per: '+GDGManagua'  #Personal link
