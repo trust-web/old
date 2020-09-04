@@ -9,4 +9,9 @@ image: https://i.loli.net/2020/09/04/bRxzvBUysGYaEMT.png
 
 
 前往请[点击](trust-web.github.io/fastapp)
+
+
+## Version: 0.2.1β
+支持： <i class="fas fa-tablet-alt"></i>
+Pic:
 ![图1](https://i.loli.net/2020/09/04/bRxzvBUysGYaEMT.png) 
