@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "快捷栏"
+date:   2020-09-04 18:41:10
+categories: jekyll
+author: vandie
+image: https://i.loli.net/2020/09/04/bRxzvBUysGYaEMT.png
+---
+
+
+前往请[点击](trust-web.github.io/fastapp)
+![图1](https://i.loli.net/2020/09/04/bRxzvBUysGYaEMT.png) 
