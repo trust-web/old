@@ -2,7 +2,7 @@
 title: Trust-Web
 email: kek234600@gmail.com
 description: 请使用 Chrome 浏览器以获得最佳的浏览体验。
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/old" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 等待添加
 github_username: trust-web
